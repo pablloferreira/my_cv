@@ -13,3 +13,14 @@
 **Beginer Level** <br>
 Java, Git, Ruby, Rails, PostgreSQL, Linux, JavaScript, HTML, CSS.
 
+## Education
+
+**2019 - 2022(Studying)** <br>
+Information Systems (College Delta)
+
+**2012 - 2014(interrupted)** <br>
+Bachelor of Mathematics - UFG(Federal University of Goiás)
+
+**2009 - 2011** <br>
+High School - College Meta Brazil
+
