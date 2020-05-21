@@ -8,3 +8,8 @@
 **Nationality:** Brazil <br>
 **Marital Status:** Married <br>
 
+## Skills
+
+**Beginer Level** <br>
+Java, Git, Ruby, Rails, PostgreSQL, Linux, JavaScript, HTML, CSS.
+
