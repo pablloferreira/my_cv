@@ -35,3 +35,17 @@ Concepts and best practices with PostgreSQL databases.
 **2019** <br>
 Internet programming with JavaScript.
 
+## Training
+
+**2020**
+Ruby on Rails 5.x - From start to finish! (48h) <br>
+Udemy - Brazil
+
+**2020**
+Docker for Ruby on Rails developers. (7,5h) <br>
+Udemy - Brazil
+
+**2020**
+Complete Ethical Hacking Certification Course: Zero to Hero. (4h) <br>
+Udemy - USA
+
