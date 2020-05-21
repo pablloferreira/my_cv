@@ -24,3 +24,14 @@ Bachelor of Mathematics - UFG(Federal University of Goiás)
 **2009 - 2011** <br>
 High School - College Meta Brazil
 
+## Certificates
+
+**2020** <br>
+Git and contributions to Open Source projects.
+
+**2020** <br>
+Concepts and best practices with PostgreSQL databases.
+
+**2019** <br>
+Internet programming with JavaScript.
+
