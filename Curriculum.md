@@ -49,3 +49,7 @@ Udemy - Brazil
 Complete Ethical Hacking Certification Course: Zero to Hero. (4h) <br>
 Udemy - USA
 
+## Other Skills
+
+**Brazilian Portuguese:** Native <br>
+**English:** Beginner
